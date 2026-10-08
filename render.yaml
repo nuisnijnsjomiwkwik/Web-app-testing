@@ -1,6 +1,0 @@
- services:
-  - type: web
-    name: unit3project
-    env: node
-    plan: free
-    startCommand: npm install && npm start
